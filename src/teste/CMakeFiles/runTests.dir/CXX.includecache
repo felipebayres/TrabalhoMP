@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/les-03/Downloads/trabalhomp/include/string_soma.h
+../src/string_soma.c
+/home/les-03/Downloads/trabalhomp/src/string_soma.c
+
+/home/les-03/Downloads/trabalhomp/src/string_soma.c
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+
+/home/les-03/Downloads/trabalhomp/src/teste/testa_string_soma.cpp
+gtest/gtest.h
+/home/les-03/Downloads/trabalhomp/src/teste/gtest/gtest.h
+../../include/string_soma.h
+/home/les-03/Downloads/trabalhomp/include/string_soma.h
+
