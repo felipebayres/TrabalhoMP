@@ -1,3 +1,3 @@
-/home/les-03/Downloads/trabalhomp/src/teste/CMakeFiles/edit_cache.dir
-/home/les-03/Downloads/trabalhomp/src/teste/CMakeFiles/rebuild_cache.dir
-/home/les-03/Downloads/trabalhomp/src/teste/CMakeFiles/runTests.dir
+/home/felipe/Desktop/TrabalhoMP/src/teste/CMakeFiles/rebuild_cache.dir
+/home/felipe/Desktop/TrabalhoMP/src/teste/CMakeFiles/edit_cache.dir
+/home/felipe/Desktop/TrabalhoMP/src/teste/CMakeFiles/runTests.dir

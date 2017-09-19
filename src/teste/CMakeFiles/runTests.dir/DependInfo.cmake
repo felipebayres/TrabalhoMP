@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/les-03/Downloads/trabalhomp/src/teste/testa_string_soma.cpp" "/home/les-03/Downloads/trabalhomp/src/teste/CMakeFiles/runTests.dir/testa_string_soma.cpp.o"
+  "/home/felipe/Desktop/TrabalhoMP/src/teste/testa_string_soma.cpp" "/home/felipe/Desktop/TrabalhoMP/src/teste/CMakeFiles/runTests.dir/testa_string_soma.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

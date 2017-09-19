@@ -1,4 +1,4 @@
-# Install script for directory: /home/les-03/Downloads/trabalhomp/src/teste
+# Install script for directory: /home/felipe/Desktop/TrabalhoMP/src/teste
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/les-03/Downloads/trabalhomp/src/teste/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/felipe/Desktop/TrabalhoMP/src/teste/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

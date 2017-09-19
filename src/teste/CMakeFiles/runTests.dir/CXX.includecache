@@ -6,11 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/home/les-03/Downloads/trabalhomp/include/string_soma.h
+/home/felipe/Desktop/TrabalhoMP/include/string_soma.h
 ../src/string_soma.c
-/home/les-03/Downloads/trabalhomp/src/string_soma.c
+/home/felipe/Desktop/TrabalhoMP/src/string_soma.c
 
-/home/les-03/Downloads/trabalhomp/src/string_soma.c
+/home/felipe/Desktop/TrabalhoMP/src/string_soma.c
 stdlib.h
 -
 stdio.h
@@ -18,9 +18,9 @@ stdio.h
 string.h
 -
 
-/home/les-03/Downloads/trabalhomp/src/teste/testa_string_soma.cpp
+/home/felipe/Desktop/TrabalhoMP/src/teste/testa_string_soma.cpp
 gtest/gtest.h
-/home/les-03/Downloads/trabalhomp/src/teste/gtest/gtest.h
+/home/felipe/Desktop/TrabalhoMP/src/teste/gtest/gtest.h
 ../../include/string_soma.h
-/home/les-03/Downloads/trabalhomp/include/string_soma.h
+/home/felipe/Desktop/TrabalhoMP/include/string_soma.h
 

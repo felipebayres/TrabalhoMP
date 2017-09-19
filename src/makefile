@@ -1,7 +1,6 @@
 IDIR =../include
 CC=gcc
-CFLAGS=-I$(IDIR) -ftest-coverage -fprofile-arcs
-
+CFLAGS=-I$(IDIR) 
 ODIR=obj
 LDIR =../lib
 
