@@ -3,31 +3,25 @@
 #include<string.h>
 //#include"string_soma.h"
 
-int string_soma (char * string )
+int string_soma (char* str )
 {
-int soma = 0,comprimento=0,i=0,j=0;;
-char str[2],delimitador[20];
+	int i=0,soma=0,j=0,k=0;
+	char n[4];
 
-comprimento = strlen(string);
+	while(str[i] != '\0'){
+		while(str[i] != '\0' && str[i] != ','){
+			n[j]=str[i];
+			i++;
+			j++;
 
-while( i < comprimento){
-	
-	if(47 < string[i] < 58 && j<4) {
-	str[j] = string[i];
-	j++;}
-	if(j>3) str[2]="\0";
-	soma = soma + atoi(str);
-i++;}
-
-
-
-
-return soma;
-
+		}
+		n[j]='\0';
+		//printf("%s",n);
+		soma = soma + atoi(n);
+		i++;
+		k++;
+		j=0;n[0]='\0';
+	}
+	if(k>3) return -1;
+	return soma;
 }
-
-/*while(47 < string[i] < 58 && j < 4){ 	
-		str[j]=string[i];
-		j++;}
-	soma = soma + atoi(str);
-	if(string[i] != delimitador && string[i] != */
